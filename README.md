@@ -1,2 +1,2 @@
 # ExplainableAI
-Attached repository for my article about Explainable AI
+Developing an understanding of the Integrated Gradients Algorithm in Computer Vision
